@@ -1,0 +1,8 @@
+alias rm='rm -i'
+alias cp='cp -i'
+alias mv='mv -i'
+alias l='ls'
+alias la='ls -a'
+alias ll='ls -lh'
+alias vi='vim'
+alias mininet='ssh -X mininet@192.168.56.101'
