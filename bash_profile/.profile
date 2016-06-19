@@ -21,6 +21,4 @@ if [ -d "$HOME/bin" ] ; then
     PATH="$HOME/bin:$PATH"
 fi
 #export JAVA_HOME=/usr/lib/jvm/jdk1.7.0_51
-export USE_CCACHE=1
-export CCACHE_DIR=/home/wy/win/Work/Android/android_source/CACHE_DIR/.ccache
 export PATH=/home/wy/Android/sdk/tools:/home/wy/Android/sdk/platform-tools:$PATH
